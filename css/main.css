@@ -15,3 +15,27 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+h2 {
+  font-family: "Denk One", sans-serif;
+}
+
+.img-flex {
+  width: 100%;
+  margin: 0;
+  display: block;
+}
+
+figure {
+  margin: 0;
+  background-color: #e2e2e2;
+}
+
+figcaption {
+  padding-left: 1em;
+  padding-bottom: 1em;
+}
